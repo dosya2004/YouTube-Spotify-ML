@@ -6,8 +6,6 @@ Supervised ML "Pocked Project"
 
 Target columns: 'Views', 'Likes'
 
-Used sklearn and category_encoders and other ML libraries
-
-At the beggining I dropped the URL's and unlicensed videos to make it more 'Legal'.
+Used sklearn and category_encoders and other ML libraries.
 
 The main aim of this project was to apply all what I learned during 'IBM supervied ML' course.
